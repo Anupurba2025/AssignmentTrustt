@@ -1,0 +1,5 @@
+com\example\MovieApp\controller\UserControllerTest.class
+com\example\MovieApp\service\MovieServiceTest.class
+com\example\MovieApp\service\UserServiceTest.class
+com\example\MovieApp\MovieAppApplicationTests.class
+com\example\MovieApp\controller\MovieControllerTest.class
