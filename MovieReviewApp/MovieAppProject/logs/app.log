@@ -1,0 +1,38 @@
+2024-11-13T10:45:33.878+05:30  INFO 1596 --- [MovieApp] [main] c.e.MovieApp.MovieAppApplicationTests    : Starting MovieAppApplicationTests using Java 21.0.5 with PID 1596 (started by anupurba in C:\Users\anupurba\Downloads\MovieApp\MovieApp)
+2024-11-13T10:45:33.878+05:30  INFO 1596 --- [MovieApp] [main] c.e.MovieApp.MovieAppApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-11-13T10:45:35.010+05:30  INFO 1596 --- [MovieApp] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-13T10:45:35.073+05:30  INFO 1596 --- [MovieApp] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 52 ms. Found 3 JPA repository interfaces.
+2024-11-13T10:45:35.926+05:30  INFO 1596 --- [MovieApp] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-11-13T10:45:36.320+05:30  INFO 1596 --- [MovieApp] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@62e73ab6
+2024-11-13T10:45:36.320+05:30  INFO 1596 --- [MovieApp] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-11-13T10:45:36.415+05:30  INFO 1596 --- [MovieApp] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-13T10:45:36.557+05:30  INFO 1596 --- [MovieApp] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-13T10:45:36.636+05:30  INFO 1596 --- [MovieApp] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-11-13T10:45:37.141+05:30  INFO 1596 --- [MovieApp] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-13T10:45:38.390+05:30  INFO 1596 --- [MovieApp] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-13T10:45:38.390+05:30  INFO 1596 --- [MovieApp] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-13T10:45:39.541+05:30  WARN 1596 --- [MovieApp] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-13T10:45:41.169+05:30  INFO 1596 --- [MovieApp] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-11-13T10:45:41.296+05:30  INFO 1596 --- [MovieApp] [main] c.e.MovieApp.MovieAppApplicationTests    : Started MovieAppApplicationTests in 7.711 seconds (process running for 8.842)
+2024-11-13T10:45:42.311+05:30  INFO 1596 --- [MovieApp] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-13T10:45:42.311+05:30  INFO 1596 --- [MovieApp] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-11-13T10:45:42.336+05:30  INFO 1596 --- [MovieApp] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-11-13T10:48:18.517+05:30  INFO 7688 --- [MovieApp] [main] c.e.MovieApp.MovieAppApplicationTests    : Starting MovieAppApplicationTests using Java 21.0.5 with PID 7688 (started by anupurba in C:\Users\anupurba\Downloads\MovieApp\MovieApp)
+2024-11-13T10:48:18.517+05:30  INFO 7688 --- [MovieApp] [main] c.e.MovieApp.MovieAppApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-11-13T10:48:19.703+05:30  INFO 7688 --- [MovieApp] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-13T10:48:19.750+05:30  INFO 7688 --- [MovieApp] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 45 ms. Found 3 JPA repository interfaces.
+2024-11-13T10:48:20.567+05:30  INFO 7688 --- [MovieApp] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-11-13T10:48:20.978+05:30  INFO 7688 --- [MovieApp] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@11826398
+2024-11-13T10:48:20.978+05:30  INFO 7688 --- [MovieApp] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-11-13T10:48:21.041+05:30  INFO 7688 --- [MovieApp] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-13T10:48:21.167+05:30  INFO 7688 --- [MovieApp] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-13T10:48:21.292+05:30  INFO 7688 --- [MovieApp] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-11-13T10:48:22.000+05:30  INFO 7688 --- [MovieApp] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-13T10:48:23.331+05:30  INFO 7688 --- [MovieApp] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-13T10:48:23.339+05:30  INFO 7688 --- [MovieApp] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-13T10:48:24.454+05:30  WARN 7688 --- [MovieApp] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-13T10:48:25.950+05:30  INFO 7688 --- [MovieApp] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-11-13T10:48:26.107+05:30  INFO 7688 --- [MovieApp] [main] c.e.MovieApp.MovieAppApplicationTests    : Started MovieAppApplicationTests in 7.91 seconds (process running for 9.065)
+2024-11-13T10:48:27.086+05:30  INFO 7688 --- [MovieApp] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-13T10:48:27.086+05:30  INFO 7688 --- [MovieApp] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-11-13T10:48:27.111+05:30  INFO 7688 --- [MovieApp] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

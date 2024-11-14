@@ -1,0 +1,14 @@
+com\example\MovieApp\repository\UserRepository.class
+com\example\MovieApp\service\UserService.class
+com\example\MovieApp\entity\Review.class
+com\example\MovieApp\service\ReviewService.class
+com\example\MovieApp\MovieAppApplication.class
+com\example\MovieApp\service\MovieService.class
+com\example\MovieApp\controller\ReviewController.class
+com\example\MovieApp\controller\UserController.class
+com\example\MovieApp\entity\Movie.class
+com\example\MovieApp\repository\ReviewRepository.class
+com\example\MovieApp\controller\MovieController.class
+com\example\MovieApp\entity\User.class
+com\example\MovieApp\exception\ReviewNotFoundException.class
+com\example\MovieApp\repository\MovieRepository.class
